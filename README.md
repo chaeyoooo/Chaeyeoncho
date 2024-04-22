@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+
+![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&show_icons=true&theme=radical)
+
