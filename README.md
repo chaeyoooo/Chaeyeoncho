@@ -4,17 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>chaeyeon's github</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    .container {
-      text-align: center;
-    }
-    .badge {
-      margin: 0 5px; /* 아이콘 사이의 간격 조정 */
-    }
-  </style>
 </head>
 <body>
   <div class="container">
