@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>✨ chaeyeon's github ✨</h1>
+    <h1 style = "text-align: center;">✨ chaeyeon's github ✨</h1>
     <div>
       <img class="badge" src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
       <img class="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
