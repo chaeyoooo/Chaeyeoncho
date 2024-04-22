@@ -15,6 +15,5 @@
   </div>
   <div class="container" style="text-align: center; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact"/>
-  </div>
 </body>
 </html>
