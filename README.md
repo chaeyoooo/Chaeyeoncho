@@ -5,8 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <div class="container">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact"/>
     <h1>✨ chaeyeon's github ✨</h1>
     <div>
       <img class="badge" src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
@@ -14,6 +12,8 @@
       <img class="badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
       <img class="badge" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
       <img class="badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+      <div class="container">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact"/>
     </div>
     <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&show_icons=true&theme=radical"/>
   </div>
