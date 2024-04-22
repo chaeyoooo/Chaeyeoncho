@@ -26,8 +26,8 @@
       <img class="badge" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
       <img class="badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact"/>
   </div>
 </body>
 </html>
