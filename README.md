@@ -15,5 +15,6 @@
   </div>
   <div class="container" style="text-align: center; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact"/>
+    ![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&hide=contribs,prs&show_icons=true&theme=테마)
 </body>
 </html>
