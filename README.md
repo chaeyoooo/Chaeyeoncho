@@ -13,6 +13,5 @@
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&hide=contribs,prs&show_icons=true&theme=radical" alt="Chaeyeon's GitHub stats"/>
 </div>
 
