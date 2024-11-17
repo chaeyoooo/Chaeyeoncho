@@ -1,8 +1,8 @@
-<div style="text-align: center; background-color: #ffffff; padding: 20px;">
-  <h1 style="font-size: 3rem; color: #4CAF50;">✨ Welcome to Chaeyeon's GitHub ✨</h1>
+<div style="text-align: center; background: linear-gradient(to bottom, #fdfcfb, #e2d1c3); padding: 40px; font-family: Arial, sans-serif; color: #444;">
+  <h1 style="font-size: 3rem; color: #5D4954; margin-bottom: 20px;">✨ Welcome to Chaeyeon's GitHub ✨</h1>
 
   <div style="margin: 20px;">
-    <p style="font-size: 1.5rem; font-weight: bold; color: #FF5722;">👩‍💻 I'm currently learning:</p>
+    <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">👩‍💻 I'm currently learning:</p>
     <div style="margin: 10px;">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript Badge"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React Badge"/>
@@ -12,7 +12,7 @@
   </div>
 
   <div style="margin: 20px;">
-    <p style="font-size: 1.5rem; font-weight: bold; color: #2196F3;">🌟 Languages & Tools I use:</p>
+    <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">🌟 Languages & Tools I use:</p>
     <div style="margin: 10px;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
@@ -23,26 +23,26 @@
   </div>
 
   <div style="margin: 20px;">
-    <p style="font-size: 1.5rem; font-weight: bold; color: #9C27B0;">📊 My GitHub Stats:</p>
+    <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">📊 My GitHub Stats:</p>
     <div style="margin-top: 10px;">
       <a href="https://github.com/Chaeyeoncho/github-readme-stats">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&show_icons=true&theme=vue-dark&title_color=FF5722&icon_color=FFC107&text_color=FFFFFF&bg_color=F5F5F5" 
+          src="https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&show_icons=true&theme=calm&title_color=5D4954&icon_color=FFC107&text_color=5D4954&bg_color=FDFCFB" 
           alt="GitHub Stats"
-          style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+          style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
         />
       </a>
       <div style="margin-top: 20px;">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact&theme=vue-dark&title_color=4CAF50&text_color=000000&bg_color=F5F5F5" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact&theme=calm&title_color=7A7265&text_color=444444&bg_color=FDFCFB" 
           alt="Top Languages"
-          style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+          style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
         />
       </div>
     </div>
   </div>
 
   <div style="margin-top: 30px;">
-    <p style="font-size: 1.2rem; color: #607D8B;">💡 <b>Let's connect and build something amazing together!</b></p>
+    <p style="font-size: 1.2rem; color: #5D4954;">💡 <b>Let's connect and build something amazing together!</b></p>
   </div>
 </div>
