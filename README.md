@@ -33,6 +33,7 @@
         />
       </a>
       <div style="margin-top: 30px;">
+        <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">📊 Most used language:</p>
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact&theme=calm&title_color=7A7265&text_color=444444&bg_color=FDFCFB" 
           alt="Top Languages"
