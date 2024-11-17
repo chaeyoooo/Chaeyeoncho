@@ -42,8 +42,4 @@
       </div>
     </div>
   </div>
-
-  <div style="margin-top: 30px; text-align: center;">
-    <p style="font-size: 1.2rem; color: #5D4954;">💡 <b>Let's connect and build something amazing together!</b></p>
-  </div>
 </div>
