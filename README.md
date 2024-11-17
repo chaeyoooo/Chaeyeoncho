@@ -10,5 +10,7 @@
 
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact" alt="Top Langs"/>
-</div>
-[![채연's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeyeoncho)](https://github.com/Chaeyeoncho/github-readme-stats)
+</div
+  <div>
+    [![채연's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&show_icons=true&theme=radical)](https://github.com/Chaeyeoncho/github-readme-stats)
+  </div>
