@@ -1,7 +1,7 @@
-<div style="text-align: center; background: linear-gradient(to bottom, #fdfcfb, #e2d1c3); padding: 40px; font-family: Arial, sans-serif; color: #444;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; min-height: 100vh; background: linear-gradient(to bottom, #fdfcfb, #e2d1c3); font-family: Arial, sans-serif; color: #444;">
   <h1 style="font-size: 3rem; color: #5D4954; margin-bottom: 20px;">✨ Welcome to Chaeyeon's GitHub ✨</h1>
 
-  <div style="margin: 30px;">
+  <div style="margin: 20px; text-align: center;">
     <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">👩‍💻 I'm currently learning:</p>
     <div style="margin: 10px;">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript Badge"/>
@@ -11,7 +11,7 @@
     </div>
   </div>
 
-  <div style="margin: 30px;">
+  <div style="margin: 20px; text-align: center;">
     <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">🌟 Languages & Tools I use:</p>
     <div style="margin: 10px;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
@@ -22,7 +22,7 @@
     </div>
   </div>
 
-  <div style="margin: 30px;">
+  <div style="margin: 20px; text-align: center;">
     <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">📊 My GitHub Stats:</p>
     <div style="margin-top: 10px;">
       <a href="https://github.com/Chaeyeoncho/github-readme-stats">
@@ -32,8 +32,7 @@
           style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
         />
       </a>
-      <div style="margin-top: 30px;">
-        <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">📊 Most used language:</p>
+      <div style="margin-top: 20px;">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact&theme=calm&title_color=7A7265&text_color=444444&bg_color=FDFCFB" 
           alt="Top Languages"
@@ -43,4 +42,7 @@
     </div>
   </div>
 
+  <div style="margin-top: 30px; text-align: center;">
+    <p style="font-size: 1.2rem; color: #5D4954;">💡 <b>Let's connect and build something amazing together!</b></p>
+  </div>
 </div>
