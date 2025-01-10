@@ -33,12 +33,6 @@
         />
       </a>
       <div style="margin-top: 20px;">
-           <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">📊 Top Languages":</p>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaeyeoncho&layout=compact&theme=calm&title_color=7A7265&text_color=444444&bg_color=FDFCFB" 
-          alt="Top Languages"
-          style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
-        />
       </div>
     </div>
   </div>
