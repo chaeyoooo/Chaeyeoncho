@@ -25,9 +25,9 @@
   <div style="margin: 20px; text-align: center;">
     <p style="font-size: 1.5rem; font-weight: bold; color: #7A7265;">📊 My GitHub Stats:</p>
     <div style="margin-top: 10px;">
-      <a href="https://github.com/Chaeyeoncho/github-readme-stats">
+      <a href="https://github.com/chaeyoooo/github-readme-stats">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=Chaeyeoncho&show_icons=true&theme=calm&title_color=5D4954&icon_color=FFC107&text_color=5D4954&bg_color=FDFCFB" 
+          src="https://github-readme-stats.vercel.app/api?username=chaeyoooo&show_icons=true&theme=calm&title_color=5D4954&icon_color=FFC107&text_color=5D4954&bg_color=FDFCFB" 
           alt="GitHub Stats"
           style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
         />
